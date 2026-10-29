@@ -1,0 +1,5 @@
+# data directory
+# CSV data files and metadata are tracked so the dashboard runs out of the box when deployed
+!*.csv
+!metadata.json
+!.gitkeep

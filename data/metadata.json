@@ -1,0 +1,38 @@
+{
+  "last_updated": "2026-10-28 10:40 UTC",
+  "source": "World Bank Open Data (wbgapi)",
+  "country": "Nepal (NPL)",
+  "year_range": "2000-2023",
+  "indicators": [
+    {
+      "code": "NY.GDP.MKTP.KD.ZG",
+      "name": "GDP Growth Rate",
+      "unit": "% per year"
+    },
+    {
+      "code": "FP.CPI.TOTL.ZG",
+      "name": "Inflation (CPI)",
+      "unit": "% per year"
+    },
+    {
+      "code": "BX.TRF.PWKR.DT.GD.ZS",
+      "name": "Remittances",
+      "unit": "% of GDP"
+    },
+    {
+      "code": "NE.EXP.GNFS.ZS",
+      "name": "Exports of Goods & Services",
+      "unit": "% of GDP"
+    },
+    {
+      "code": "NE.IMP.GNFS.ZS",
+      "name": "Imports of Goods & Services",
+      "unit": "% of GDP"
+    },
+    {
+      "code": "SL.UEM.TOTL.ZS",
+      "name": "Unemployment Rate",
+      "unit": "% of total labour force"
+    }
+  ]
+}
